@@ -1,4 +1,4 @@
-# Terjemahan Nama Kementrian 2024-2029 dari Bahasa Indonesia ke Inggris #
+# Terjemahan Nama Kementerian 2024-2029 dari Bahasa Indonesia ke Inggris #
 
 | Bahasa Indonesia  | Bahasa Inggris |
 | ------------------|----------------|
