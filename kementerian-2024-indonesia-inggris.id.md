@@ -55,4 +55,4 @@
 | Tentara Nasional Indonesia | Indonesian National Defense Forces |
 | Kepolisian Negara Republik Indonesia |Indonesian National Police
 | Badan Pangan Nasional | National Food Agency
-| Badan Gizin Nasional | National Nutrition Agency
+| Badan Gizi Nasional | National Nutrition Agency
