@@ -2,6 +2,7 @@
 
 | Bahasa Indonesia  | Bahasa Inggris dari setkab.go.id | Alternatif
 | ------------------|----------------------------------|----------------|
+| Kabinet Merah Putih | Red and White Cabinet | Red White Cabinet
 | Kementerian Koordinator Bidang Politik dan Keamanan | Coordinating Ministry for Political and Security Affairs |
 | Kementerian Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan  | Coordinating Ministry for Legal, Human Rights, Immigration, and Corrections Affairs | Coordinating Ministry for Legal, Human Rights, Immigration, and Penitentiary Affairs
 | Kementerian Koordinator Bidang Perekonomian  |  Coordinating Ministry for Economic Affairs
@@ -50,3 +51,8 @@
 | Kementerian Ekonomi Kreatif/Badan Ekonomi Kreatif  |  Ministry of Creative Economy/Creative Economy Agency
 | Kementerian Pemberdayaan Perempuan dan Perlindungan Anak  | Ministry of Women’s Empowerment and Child Protection |  Ministry of Women Empowerment and Child Protection
 | Kementerian Pemuda dan Olahraga  |  Ministry of Youth and Sports
+| Kejaksaan Agung Republik Indonesia | Attorney General’s Office of the Republic of Indonesia
+| Tentara Nasional Indonesia | Indonesian National Defense Forces |
+| Kepolisian Negara Republik Indonesia |Indonesian National Police
+| Badan Pangan Nasional | National Food Agency
+| Badan Gizin Nasional | National Nutrition Agency
