@@ -42,7 +42,7 @@
 | Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional  |  Ministry of National Development Planning/National Development Planning Agency
 | Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi  |  Ministry of State Apparatus Empowerment and Bureaucratic Reform
 | Kementerian Badan Usaha Milik Negara  |  Ministry of State-Owned Enterprises
-| Kementerian Kependudukan dan Pembangunan Keluarga/Badan Kependudukan dan Keluarga Berencana Nasional  | Ministry of Population and Family Development/National Population and Family Planning Agency | Ministry of Population and Family Development/National Population and Family Planning Agency
+| Kementerian Kependudukan dan Pembangunan Keluarga/Badan Kependudukan dan Keluarga Berencana Nasional  | Ministry of Population and Family Development/National Population and Family Planning Agency
 | Kementerian Lingkungan Hidup/Badan Pengendalian Lingkungan Hidup  |  Ministry of Environment/Environmental Control Agency
 | Kementerian Investasi dan Hilirisasi/Badan Koordinasi Penanaman Modal  | Ministry of Investment and Downstreaming/Investment Coordinating Board |  Ministry of Investment and Downstreaming/Investment Coordinating Board
 | Kementerian Koperasi  |  Ministry of Cooperatives
