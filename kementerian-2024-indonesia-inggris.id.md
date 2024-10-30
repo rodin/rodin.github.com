@@ -1,6 +1,6 @@
 # Terjemahan Nama Kementerian 2024-2029 dari Bahasa Indonesia ke Inggris #
 
-| Bahasa Indonesia  | Bahasa Inggris from setkab.go.id | Alternatif
+| Bahasa Indonesia  | Bahasa Inggris dari setkab.go.id | Alternatif
 | ------------------|----------------------------------|----------------|
 | Kementerian Koordinator Bidang Politik dan Keamanan | Coordinating Ministry for Political and Security Affairs |
 | Kementerian Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan  | Coordinating Ministry for Legal, Human Rights, Immigration, and Corrections Affairs | Coordinating Ministry for Legal, Human Rights, Immigration, and Penitentiary Affairs
